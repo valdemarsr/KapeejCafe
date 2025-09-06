@@ -1,0 +1,6 @@
+@KapeejCafe.WebApi_HostAddress = http://localhost:5168
+
+GET {{KapeejCafe.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
